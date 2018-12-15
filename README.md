@@ -1,4 +1,4 @@
-TODO:
+### TODO:
 
 - [x] CreateClan
 - [x] seed
@@ -19,5 +19,19 @@ TODO:
 - [x] CalcBuildingProgress
 - [x] CalcPlayerJobProgress
 - [x] CalcSoldierFoodLoss
+- [x] getClanLevel
 
-- [ ] Attack
+- [ ] clansLeaderboard
+
+- [ ] chooseClansToBattle
+
+### game instructions:
+
+- [ ] getListOfPlayers()
+- [ ] getPlayerInfo(playerId)
+- [ ] getPlayerClanInfo(playerId, clanId)
+- [ ] getClanBattlesLog(clanId)
+
+- [ ] getListOfAttackableClans(clanId)
+- [ ] Attack(clanId1, clanId2)
+- [ ] getAttackResults(attackId)

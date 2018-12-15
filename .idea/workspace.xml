@@ -57,63 +57,150 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../SP/CalcNextCycle.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../SP/CalcPlayerJobProgress.sql">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../SP/CalcSoldierFoodLoss.sql">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+              <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../SP/CalcClanLumber.sql">
+        <entry file="file://$PROJECT_DIR$/../README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="15" selection-end-column="91" />
+            <state relative-caret-position="345">
+              <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../SP/Attack.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../SP/CalcClanFood.sql">
+        <entry file="file://$PROJECT_DIR$/../Functions/getClanLevel.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../SP/CalcClanSoldier.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        <entry file="uml://DATABASE/b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.DATABASE:ClanWars">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>DATABASE</ID>
+              <OriginalElement>b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.DATABASE:ClanWars</OriginalElement>
+              <nodes>
+                <node x="0.0" y="309.5">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Job</node>
+                <node x="524.4772727272727" y="499.0">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.PlayerClanRoleJob</node>
+                <node x="172.57954545454544" y="499.0">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.PlayerJob</node>
+                <node x="815.3125" y="309.5">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Role</node>
+                <node x="640.3125" y="250.0">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.WarLog</node>
+                <node x="202.0" y="273.5">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.ClanBuilding</node>
+                <node x="466.6022727272727" y="0.0">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Clan</node>
+                <node x="425.0" y="297.5">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Player</node>
+                <node x="712.5625" y="72.5">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.War</node>
+                <node x="161.75" y="60.0">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Building</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.PlayerJob" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Job">
+                  <point x="-39.0" y="-64.0" />
+                  <point x="211.57954545454544" y="479.0" />
+                  <point x="45.5" y="479.0" />
+                  <point x="-45.5" y="40.0" />
+                </edge>
+                <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.PlayerJob" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Player">
+                  <point x="39.0" y="-64.0" />
+                  <point x="289.57954545454544" y="479.0" />
+                  <point x="470.5" y="479.0" />
+                  <point x="-45.5" y="52.0" />
+                </edge>
+                <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.PlayerClanRoleJob" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Clan">
+                  <point x="20.375" y="-64.0" />
+                  <point x="626.3522727272727" y="479.0" />
+                  <point x="624.4375" y="479.0" />
+                  <point x="624.4375" y="225.0" />
+                  <point x="589.1022727272727" y="225.0" />
+                  <point x="24.5" y="100.0" />
+                </edge>
+                <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.WarLog" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Clan">
+                  <point x="-38.75" y="-99.5" />
+                  <point x="679.0625" y="225.0" />
+                  <point x="638.1022727272727" y="225.0" />
+                  <point x="73.5" y="100.0" />
+                </edge>
+                <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.PlayerClanRoleJob" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Player">
+                  <point x="-20.375" y="-64.0" />
+                  <point x="585.6022727272727" y="479.0" />
+                  <point x="561.5" y="479.0" />
+                  <point x="45.5" y="52.0" />
+                </edge>
+                <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.PlayerClanRoleJob" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Job">
+                  <point x="-61.125" y="-64.0" />
+                  <point x="544.8522727272727" y="469.0" />
+                  <point x="136.5" y="469.0" />
+                  <point x="45.5" y="40.0" />
+                </edge>
+                <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.ClanBuilding" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Clan">
+                  <point x="50.75" y="-76.0" />
+                  <point x="354.25" y="225.0" />
+                  <point x="491.1022727272727" y="225.0" />
+                  <point x="-73.5" y="100.0" />
+                </edge>
+                <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.WarLog" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.War">
+                  <point x="38.75" y="-99.5" />
+                  <point x="0.0" y="27.5" />
+                </edge>
+                <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Player" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Clan">
+                  <point x="0.0" y="-52.0" />
+                  <point x="516.0" y="225.0" />
+                  <point x="540.1022727272727" y="225.0" />
+                  <point x="-24.5" y="100.0" />
+                </edge>
+                <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.PlayerClanRoleJob" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Role">
+                  <point x="61.125" y="-64.0" />
+                  <point x="667.1022727272727" y="479.0" />
+                  <point x="906.3125" y="479.0" />
+                  <point x="0.0" y="40.0" />
+                </edge>
+                <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.ClanBuilding" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Building">
+                  <point x="-50.75" y="-76.0" />
+                  <point x="0.0" y="40.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.6707882534775889" x="253.0207373271889" y="337.78801843317973" />
+              <SelectedNodes>
+                <node>b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Building</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Key columns</Category>
+                <Category>Columns</Category>
+              </Categories>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../SP/Seed.sql">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/../SP/RegisterPlayer.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../CreateTables.sql">
+        <entry file="file://$PROJECT_DIR$/../SP/RemovePlayerFromClan.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            <state relative-caret-position="195">
+              <caret line="13" column="62" lean-forward="true" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -127,11 +214,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../README.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../SP/CreateClan.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+            <state relative-caret-position="105">
+              <caret line="7" column="56" selection-start-line="6" selection-start-column="2" selection-end-line="7" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Functions/getClanExp.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -166,7 +262,11 @@
         <option value="$PROJECT_DIR$/../SP/CalcPlayerJobProgress.sql" />
         <option value="$PROJECT_DIR$/../SP/CalcSoldierFoodLoss.sql" />
         <option value="$PROJECT_DIR$/../SP/CalcNextCycle.sql" />
+        <option value="$PROJECT_DIR$/../SP/CalcClanProgress.sql" />
+        <option value="$PROJECT_DIR$/../Functions/getClanLevel.sql" />
+        <option value="$PROJECT_DIR$/../SP/Battle.sql" />
         <option value="$PROJECT_DIR$/../README.md" />
+        <option value="$PROJECT_DIR$/../SP/Attack.sql" />
       </list>
     </option>
   </component>
@@ -191,6 +291,11 @@
             <path>
               <item name="." type="8cb6161f:DatabaseProjectViewPane$1$1" />
               <item name="ClanWars" type="5b8f4e1:DatabaseProjectViewPane$1$1$1" />
+              <item name="Functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="." type="8cb6161f:DatabaseProjectViewPane$1$1" />
+              <item name="ClanWars" type="5b8f4e1:DatabaseProjectViewPane$1$1$1" />
               <item name="SP" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -209,6 +314,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../SP" />
+      <recent name="$PROJECT_DIR$/../Functions" />
       <recent name="$PROJECT_DIR$/SP" />
       <recent name="$PROJECT_DIR$/Functions" />
     </key>
@@ -271,13 +377,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Functions/getClanExp.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="3" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Functions/isLeaderOrColeader.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -306,24 +405,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../SP/RegisterPlayer.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../SP/JoinClan.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../SP/CreateClan.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="6" selection-end-line="10" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -373,13 +458,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="16" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../SP/RemovePlayerFromClan.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -507,102 +585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="uml://DATABASE/b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.DATABASE:ClanWars">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>DATABASE</ID>
-          <OriginalElement>b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.DATABASE:ClanWars</OriginalElement>
-          <nodes>
-            <node x="263.25" y="309.5">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Job</node>
-            <node x="555.1875" y="499.0">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.PlayerClanRoleJob</node>
-            <node x="324.3295454545455" y="499.0">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.PlayerJob</node>
-            <node x="855.5625" y="309.5">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Role</node>
-            <node x="680.5625" y="250.0">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.WarLog</node>
-            <node x="40.25" y="273.5">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.ClanBuilding</node>
-            <node x="501.5795454545455" y="0.0">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Clan</node>
-            <node x="465.25" y="297.5">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Player</node>
-            <node x="752.8125" y="72.5">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.War</node>
-            <node x="0.0" y="60.0">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Building</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.PlayerClanRoleJob" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Clan">
-              <point x="20.375" y="-64.0" />
-              <point x="657.0625" y="479.0" />
-              <point x="664.6875" y="479.0" />
-              <point x="664.6875" y="225.0" />
-              <point x="624.0795454545455" y="225.0" />
-              <point x="24.5" y="100.0" />
-            </edge>
-            <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.PlayerJob" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Player">
-              <point x="39.0" y="-64.0" />
-              <point x="441.3295454545455" y="479.0" />
-              <point x="510.75" y="479.0" />
-              <point x="-45.5" y="52.0" />
-            </edge>
-            <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.PlayerJob" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Job">
-              <point x="-39.0" y="-64.0" />
-              <point x="363.3295454545455" y="479.0" />
-              <point x="308.75" y="479.0" />
-              <point x="-45.5" y="40.0" />
-            </edge>
-            <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.WarLog" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Clan">
-              <point x="-38.75" y="-99.5" />
-              <point x="719.3125" y="225.0" />
-              <point x="673.0795454545455" y="225.0" />
-              <point x="73.5" y="100.0" />
-            </edge>
-            <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.PlayerClanRoleJob" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Player">
-              <point x="-20.375" y="-64.0" />
-              <point x="616.3125" y="479.0" />
-              <point x="601.75" y="479.0" />
-              <point x="45.5" y="52.0" />
-            </edge>
-            <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.PlayerClanRoleJob" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Job">
-              <point x="-61.125" y="-64.0" />
-              <point x="575.5625" y="469.0" />
-              <point x="399.75" y="469.0" />
-              <point x="45.5" y="40.0" />
-            </edge>
-            <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.ClanBuilding" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Clan">
-              <point x="50.75" y="-76.0" />
-              <point x="192.5" y="225.0" />
-              <point x="526.0795454545455" y="225.0" />
-              <point x="-73.5" y="100.0" />
-            </edge>
-            <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.WarLog" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.War">
-              <point x="38.75" y="-99.5" />
-              <point x="0.0" y="27.5" />
-            </edge>
-            <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Player" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Clan">
-              <point x="0.0" y="-52.0" />
-              <point x="556.25" y="225.0" />
-              <point x="575.0795454545455" y="225.0" />
-              <point x="-24.5" y="100.0" />
-            </edge>
-            <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.PlayerClanRoleJob" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Role">
-              <point x="61.125" y="-64.0" />
-              <point x="697.8125" y="479.0" />
-              <point x="946.5625" y="479.0" />
-              <point x="0.0" y="40.0" />
-            </edge>
-            <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.ClanBuilding" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Building">
-              <point x="-50.75" y="-76.0" />
-              <point x="0.0" y="40.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.7693761814744802" x="302.0" y="442.0" />
-          <SelectedNodes>
-            <node>b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.PlayerJob</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Key columns</Category>
-            <Category>Columns</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../SP/CalcClanLumber.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -644,13 +626,6 @@
     <entry file="file://$PROJECT_DIR$/../SP/CalcPlayerJobProgress.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../SP/CalcBuildingProgress.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="7" selection-start-line="12" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../SP/CalcSoldierFoodLoss.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -660,15 +635,166 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../SP/CalcNextCycle.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="35" />
+        <state relative-caret-position="225">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Functions/getClanExp.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SP/CalcClanProgress.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Functions/getClanLevel.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        <state relative-caret-position="345">
+          <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SP/RegisterPlayer.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SP/CreateClan.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="56" selection-start-line="6" selection-start-column="2" selection-end-line="7" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.DATABASE:ClanWars">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.DATABASE:ClanWars</OriginalElement>
+          <nodes>
+            <node x="0.0" y="309.5">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Job</node>
+            <node x="524.4772727272727" y="499.0">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.PlayerClanRoleJob</node>
+            <node x="172.57954545454544" y="499.0">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.PlayerJob</node>
+            <node x="815.3125" y="309.5">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Role</node>
+            <node x="640.3125" y="250.0">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.WarLog</node>
+            <node x="202.0" y="273.5">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.ClanBuilding</node>
+            <node x="466.6022727272727" y="0.0">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Clan</node>
+            <node x="425.0" y="297.5">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Player</node>
+            <node x="712.5625" y="72.5">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.War</node>
+            <node x="161.75" y="60.0">b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Building</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.PlayerJob" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Job">
+              <point x="-39.0" y="-64.0" />
+              <point x="211.57954545454544" y="479.0" />
+              <point x="45.5" y="479.0" />
+              <point x="-45.5" y="40.0" />
+            </edge>
+            <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.PlayerJob" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Player">
+              <point x="39.0" y="-64.0" />
+              <point x="289.57954545454544" y="479.0" />
+              <point x="470.5" y="479.0" />
+              <point x="-45.5" y="52.0" />
+            </edge>
+            <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.PlayerClanRoleJob" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Clan">
+              <point x="20.375" y="-64.0" />
+              <point x="626.3522727272727" y="479.0" />
+              <point x="624.4375" y="479.0" />
+              <point x="624.4375" y="225.0" />
+              <point x="589.1022727272727" y="225.0" />
+              <point x="24.5" y="100.0" />
+            </edge>
+            <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.WarLog" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Clan">
+              <point x="-38.75" y="-99.5" />
+              <point x="679.0625" y="225.0" />
+              <point x="638.1022727272727" y="225.0" />
+              <point x="73.5" y="100.0" />
+            </edge>
+            <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.PlayerClanRoleJob" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Player">
+              <point x="-20.375" y="-64.0" />
+              <point x="585.6022727272727" y="479.0" />
+              <point x="561.5" y="479.0" />
+              <point x="45.5" y="52.0" />
+            </edge>
+            <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.PlayerClanRoleJob" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Job">
+              <point x="-61.125" y="-64.0" />
+              <point x="544.8522727272727" y="469.0" />
+              <point x="136.5" y="469.0" />
+              <point x="45.5" y="40.0" />
+            </edge>
+            <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.ClanBuilding" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Clan">
+              <point x="50.75" y="-76.0" />
+              <point x="354.25" y="225.0" />
+              <point x="491.1022727272727" y="225.0" />
+              <point x="-73.5" y="100.0" />
+            </edge>
+            <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.WarLog" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.War">
+              <point x="38.75" y="-99.5" />
+              <point x="0.0" y="27.5" />
+            </edge>
+            <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Player" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Clan">
+              <point x="0.0" y="-52.0" />
+              <point x="516.0" y="225.0" />
+              <point x="540.1022727272727" y="225.0" />
+              <point x="-24.5" y="100.0" />
+            </edge>
+            <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.PlayerClanRoleJob" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Role">
+              <point x="61.125" y="-64.0" />
+              <point x="667.1022727272727" y="479.0" />
+              <point x="906.3125" y="479.0" />
+              <point x="0.0" y="40.0" />
+            </edge>
+            <edge source="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.ClanBuilding" target="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Building">
+              <point x="-50.75" y="-76.0" />
+              <point x="0.0" y="40.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.6707882534775889" x="253.0207373271889" y="337.78801843317973" />
+          <SelectedNodes>
+            <node>b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1.TABLE:ClanWars.dbo.Building</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SP/RemovePlayerFromClan.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="62" lean-forward="true" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SP/CalcBuildingProgress.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="7" selection-start-line="12" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SP/Attack.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
         </state>
       </provider>
     </entry>
