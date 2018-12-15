@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="ClanWars@localhost" uuid="b6896f7b-e955-4aa3-b2a8-eeaf801fb7f1">
+      <database-info product="Microsoft SQL Server" version="14.00.3038" jdbc-version="4.2" driver-name="Microsoft JDBC Driver 7.0 for SQL Server" driver-version="7.0.0.0" dbms="MSSQL" exact-version="14.0.3038">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>SA</user-name>
+      <introspection-schemas>@:@|ClanWars:dbo</introspection-schemas>
+    </data-source>
+  </component>
+</project>
