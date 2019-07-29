@@ -1,3 +1,8 @@
+## Description
+
+This repo contains the project for Database Lab course which required us to implement a game logic completely in database, using microsoft SQLServer capabilities i.e. queries, functions, store-procedures and ...
+
+
 ### TODO:
 
 - [x] CreateClan
@@ -21,17 +26,17 @@
 - [x] CalcSoldierFoodLoss
 - [x] getClanLevel
 
-- [ ] clansLeaderboard
+- [x] clansLeaderboard
 
-- [ ] chooseClansToBattle
+- [x] chooseClansToBattle
 
 ### game instructions:
 
-- [ ] getListOfPlayers()
-- [ ] getPlayerInfo(playerId)
-- [ ] getPlayerClanInfo(playerId, clanId)
-- [ ] getClanBattlesLog(clanId)
+- [x] getListOfPlayers()
+- [x] getPlayerInfo(playerId)
+- [x] getPlayerClanInfo(playerId, clanId)
+- [x] getClanBattlesLog(clanId)
 
-- [ ] getListOfAttackableClans(clanId)
-- [ ] Attack(clanId1, clanId2)
-- [ ] getAttackResults(attackId)
+- [x] getListOfAttackableClans(clanId)
+- [x] Attack(clanId1, clanId2)
+- [x] getAttackResults(attackId)
